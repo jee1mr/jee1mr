@@ -20,15 +20,14 @@
 
 ### Languages and Tools (My Skillset)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/master/topics/python/python.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://github.com/github/explore/blob/master/topics/redux/redux.png" />
 <img align="left" alt="Redis" width="26px" src="https://github.com/github/explore/blob/master/topics/redis/redis.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/master/topics/python/python.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://github.com/github/explore/blob/master/topics/typescript/typescript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -51,6 +50,7 @@
 <img align="left" alt="Markdown" width="26px" src="https://github.com/github/explore/blob/master/topics/markdown/markdown.png" />
 <img align="left" alt="Nginx" width="26px" src="https://github.com/github/explore/blob/master/topics/nginx/nginx.png" />
 <img align="left" alt="Blender" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/blender.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 <br />
