@@ -75,7 +75,6 @@
 ---
 
 
-### My Github Stats
 <img align="left" alt="jee1mr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jee1mr&show_icons=true&hide_border=true" />
 
 
