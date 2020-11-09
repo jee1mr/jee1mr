@@ -68,6 +68,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [docker destroy](https://blog.jee1mr.com/docker-destroy-everything/)
+- [A Day in the Life of a Consumer](https://blog.jee1mr.com/a-day-in-the-life-of-a-consumer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.jee1mr.com)
