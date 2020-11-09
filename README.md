@@ -5,6 +5,7 @@
 - 💻 I'm open to full-stack freelance gigs from anywhere in the world
 - 🌱 I’m currently [learning how to learn]
 - 👯 I’m looking to collaborate on interesting open-source projects
+- 📘 I sometimes teach [Python]
 - 🥅 2020 Goals: Build one small fun full-stack project every week, build stronger CS fundamentals
 - ⚡ Fun fact: I'm a digital minimalist. I don't use Whatsapp, Facebook, Instagram, Twitter or any other mainstream social media
 
@@ -82,6 +83,6 @@
 [telegram]: https://t.me/jee1mr
 [linkedin]: https://www.linkedin.com/in/jee1mr
 [email]: mailto:14.jeevan@gmail.com
-
+[Python]: https://learn.naxxatra.com
 [learning how to learn]: https://www.coursera.org/learn/learning-how-to-learn
 
