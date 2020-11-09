@@ -83,6 +83,6 @@
 [telegram]: https://t.me/jee1mr
 [linkedin]: https://www.linkedin.com/in/jee1mr
 [email]: mailto:14.jeevan@gmail.com
-[Python]: https://learn.naxxatra.com
+[Python]: https://learn.naxxatra.com/course/
 [learning how to learn]: https://www.coursera.org/learn/learning-how-to-learn
 
