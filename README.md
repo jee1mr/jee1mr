@@ -6,7 +6,7 @@
 - 🌱 I’m currently [learning how to learn]
 - 👯 I’m looking to collaborate on interesting open-source projects
 - 📘 I sometimes teach [Python]
-- 🥅 2020 Goals: Build one small fun full-stack project every week, build stronger CS fundamentals
+- 🥅 2021 Goals: Build one small fun full-stack project every week, build stronger CS fundamentals
 - ⚡ Fun fact: I'm a digital minimalist. I don't use Whatsapp, Facebook, Instagram, Twitter or any other mainstream social media
 
 ### Connect with me
