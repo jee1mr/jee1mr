@@ -2,16 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=jee1mr.com&style=for-the-badge&url=https%3A%2F%2Fjee1mr.com)](https://jee1mr.com)
 
-- 💻 I'm open to full-stack freelance gigs from anywhere in the world
-- 🌱 I’m currently [learning how to learn]
-- 👯 I’m looking to collaborate on interesting open-source projects
-- 📘 I sometimes teach [Python]
-- 🥅 2021 Goals: Build one small fun full-stack project every week, build stronger CS fundamentals
-- ⚡ Fun fact: I'm a digital minimalist. I don't use Whatsapp, Facebook, Instagram, Twitter or any other mainstream social media
-
 ### Connect with me
 
-[<img align="left" alt="jee1mr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jeevanmr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="t.me/jee1mr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="linkedin/in/jee1mr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="14.jeevan@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/gmail.svg" />][email]
@@ -64,18 +57,6 @@
 <br />
 
 ---
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [docker destroy](https://blog.jee1mr.com/docker-destroy-everything/)
-- [A Day in the Life of a Consumer](https://blog.jee1mr.com/a-day-in-the-life-of-a-consumer/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://blog.jee1mr.com)
-
----
-
 
 <img align="left" alt="jee1mr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jee1mr&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
